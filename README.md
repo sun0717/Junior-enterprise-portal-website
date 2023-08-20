@@ -11,5 +11,8 @@
 ## 产品模块：
 [![pP8qY40.png](https://s1.ax1x.com/2023/08/20/pP8qY40.png)](https://imgse.com/i/pP8qY40)
 ## 职位模块
-[![pP8qWvD.md.png](https://s1.ax1x.com/2023/08/20/pP8qWvD.md.png)](https://imgse.com/i/pP8qWvD)
+[![pP8qWvD.png](https://s1.ax1x.com/2023/08/20/pP8qWvD.md.png)](https://imgse.com/i/pP8qWvD)
 [![pP8qyU1.png](https://s1.ax1x.com/2023/08/20/pP8qyU1.png)](https://imgse.com/i/pP8qyU1)
+## 登录模块 个人简历
+[![pP8qTUI.png](https://s1.ax1x.com/2023/08/20/pP8qTUI.png)](https://imgse.com/i/pP8qTUI)
+[![pP8q75t.png](https://s1.ax1x.com/2023/08/20/pP8q75t.png)](https://imgse.com/i/pP8q75t)
